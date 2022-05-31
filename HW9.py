@@ -25,7 +25,7 @@ print("updated from github")
 #
 a = (1, 2, 3, 4, 5)
 c = "txt"
-# b = (5, 6, 7, 8, 9)
+b = (5, 6, 7, 8, 9)
 # common_member(a, b)
 
 
