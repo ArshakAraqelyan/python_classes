@@ -1,4 +1,4 @@
-# sample_str = '''string 
+sample_str = '''string 
 
 # sample_str = "string value"
 # sample_str = 'string value'
@@ -7,7 +7,7 @@
 
 
 
-# value"""
+value"""
 
 # value'''
 # a = 1 + 2 + 3
